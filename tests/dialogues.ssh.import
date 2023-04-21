@@ -1,0 +1,14 @@
+[remap]
+
+importer="star.starscript"
+type="Resource"
+path="res://.import/dialogues.ssh-9c1e4912cfae041b2b6a2fe3d2d549cf.res"
+
+[deps]
+
+source_file="res://Components/StarScript/tests/dialogues.ssh"
+dest_files=[ "res://.import/dialogues.ssh-9c1e4912cfae041b2b6a2fe3d2d549cf.res" ]
+
+[params]
+
+keep_source_code=true

@@ -1,0 +1,14 @@
+[remap]
+
+importer="star.starscript"
+type="Resource"
+path="res://.import/regex.ssh-936ab59282e4f0131a4813a1f9b3336c.res"
+
+[deps]
+
+source_file="res://Components/StarScript/tests/regex.ssh"
+dest_files=[ "res://.import/regex.ssh-936ab59282e4f0131a4813a1f9b3336c.res" ]
+
+[params]
+
+keep_source_code=true

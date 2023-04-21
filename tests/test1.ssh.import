@@ -1,0 +1,14 @@
+[remap]
+
+importer="star.starscript"
+type="Resource"
+path="res://.import/test1.ssh-c66b19228eea3608ad0738245cf62cfb.res"
+
+[deps]
+
+source_file="res://Components/StarScript/tests/test1.ssh"
+dest_files=[ "res://.import/test1.ssh-c66b19228eea3608ad0738245cf62cfb.res" ]
+
+[params]
+
+keep_source_code=true
